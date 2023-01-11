@@ -1,0 +1,23 @@
+{
+  "name": "cur-remote",
+  "version": "1.0.0",
+  "description": "Сервер и клиент для управление экраном",
+  "main": "index.js",
+  "type": "module",
+  "imports": {
+    "#app/*": {
+      "default": "./app/*"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon --inspect index.js"
+  },
+  "author": "Nikita Antonov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "handlebars": "^4.7.7"
+  }
+}
