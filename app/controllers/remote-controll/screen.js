@@ -1,3 +1,9 @@
+import { isAuth } from './login.js';
+
 export default function (request, response) {
-  response.render('remote-controll/screen');
+  if(isAuth(request.cookies['Authorization'])) {
+    response.render('remote-controll/screen');
+  } else {
+    response.redirect('/login');
+  }
 }
