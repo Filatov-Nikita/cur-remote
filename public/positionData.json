@@ -1,0 +1,176 @@
+[
+  [
+    {
+      "size": "big",
+      "positionDefault": [-100, -100],
+      "position": [19, 382]
+    },
+    {
+      "size": "big",
+      "positionDefault": [100, 5],
+      "position": [1124, 1966]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [-100, 0],
+      "position": [276, 1956]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [0, 100],
+      "position": [13, 2846]
+    },
+    {
+      "size": "small",
+      "positionDefault": [100, -25],
+      "position": [1513, 497]
+    },
+    {
+      "size": "small",
+      "positionDefault": [100, 0],
+      "position": [1133, 923]
+    },
+    {
+      "size": "small",
+      "positionDefault": [100, 25],
+      "position": [1562, 1261]
+    },
+    {
+      "size": "small",
+      "positionDefault": [100, 10],
+      "position": [1177, 3026]
+    },
+    {
+      "size": "micro",
+      "positionDefault": [-100, 0],
+      "position": [624, 1428]
+    },
+    {
+      "size": "micro",
+      "positionDefault": [15, 100],
+      "position": [676, 2674]
+    },
+    {
+      "size": "micro",
+      "positionDefault": [100, 30],
+      "position": [1701, 2959]
+    }
+  ],
+  [
+    {
+      "size": "big",
+      "positionDefault": [-100, -100],
+      "position": [50, 836],
+      "visibleToSlide": {
+        "0": {
+          "position": [-100, -100],
+          "scale": 1,
+          "size": "small"
+        }
+      }
+    },
+    {
+      "size": "big",
+      "positionDefault": [100, -5],
+      "position": [1113, 1923],
+      "visibleToSlide": {
+        "0": {
+          "position": [-650, 1300],
+          "scale": 1,
+          "size": "big"
+        }
+      }
+    },
+    {
+      "size": "middle",
+      "positionDefault": [60, -100],
+      "position": [1321, 331],
+      "visibleToSlide": {
+        "0": {
+          "position": [-60, 3550],
+          "scale": 1,
+          "size": "micro"
+        }
+      }
+    },
+    {
+      "size": "middle",
+      "positionDefault": [100, -60],
+      "position": [1123, 1140]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [-100, 20],
+      "position": [130, 2383]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [40, 100],
+      "position": [1393, 2995]
+    }
+  ],
+  [
+    {
+      "size": "big",
+      "positionDefault": [-100, 20],
+      "position": [51, 813]
+    },
+    {
+      "size": "big",
+      "positionDefault": [100, -10],
+      "position": [1097, 1983]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [0, -100],
+      "position": [1296, 314]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [100, 10],
+      "position": [1144, 1123]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [-100, -20],
+      "position": [325, 2368]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [0, 100],
+      "position": [1147, 3026]
+    }
+  ],
+  [
+    {
+      "size": "big",
+      "positionDefault": [-100, -60],
+      "position": [51, 808]
+    },
+    {
+      "size": "big",
+      "positionDefault": [100, -10],
+      "position": [1105, 1973]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [100, -60],
+      "position": [1150, 1073]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [-100, -60],
+      "position": [312, 2292]
+    },
+    {
+      "size": "middle",
+      "positionDefault": [100, 100],
+      "position": [1371, 3013]
+    },
+    {
+      "size": "micro",
+      "positionDefault": [-100, 60],
+      "position": [163, 2988]
+    }
+  ]
+]
