@@ -14,6 +14,7 @@ app.set('views', './app/views');
 app.use(express.static('public'));
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
+app.use(express.json());
 
 routes(app);
 

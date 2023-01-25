@@ -8,6 +8,13 @@ Events.on('category.change', (category) => {
   });
 });
 
+Events.on('item.updated', (newItem) => {
+  clients.forEach(client => {
+    sendEvent(client, 'item.updated', JSON.stringify(newItem));
+  });
+});
+
+
 function sendEvent(client, name, data) {
   client.response.write(`event: ${name}\ndata: ${data}\n\n`);
 }
