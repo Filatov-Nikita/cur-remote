@@ -3,7 +3,7 @@ import mariadb from 'mariadb';
 const connection = mariadb.createConnection({
 	host: 'localhost',
 	user: 'root',
-	password: '111'
+	password: ''
 });
 
 connection.then(db => {
